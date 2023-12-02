@@ -1,0 +1,3 @@
+#js-container {max-width: 500px; position: relative;margin:0 auto;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;-o-user-select: none;user-select: none;}
+#js-canvas {position: absolute; left: 0;}
+#discountIMG {pointer-events:none;}
